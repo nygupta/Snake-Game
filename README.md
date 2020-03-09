@@ -1,2 +1,2 @@
 SnakeGame
-\n This is a simple game for fun
+       This is a simple game for fun
